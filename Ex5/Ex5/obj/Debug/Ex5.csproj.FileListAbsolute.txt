@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\aluno\source\repos\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\aluno\source\repos\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\aluno\source\repos\Ex5\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\aluno\source\repos\Ex5\Ex5\obj\Debug\Ex5.pdb
